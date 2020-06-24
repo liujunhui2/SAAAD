@@ -12,7 +12,11 @@ Let's take a look at the picture. After passing the double slits, part of the ph
 
 ## Significant path difference
 
-![The double slits](https://github.com/liujunhui74/SAAAD/blob/master/images/path_difference.png?raw=true)
+![Significant path difference](https://github.com/liujunhui74/SAAAD/blob/master/images/path_difference.png?raw=true)
 
 In the setup above, can a photon interfere with itself? We can limit the path difference to a few lambdas so this setup will have the silmilar result as the double-slit. But when we enlarge this difference, what will happen? If the self-interference disappears, then what is the maximum path difference and why?
-If there is no maximum path difference for this self-interference, then there will be a very interesting 
+If there is no maximum path difference for this self-interference, then there will be a very interesting effect.
+
+## Faster-than-light communication
+
+![Faster than light](https://github.com/liujunhui74/SAAAD/blob/master/images/SAAAD.png?raw=true)
